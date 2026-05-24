@@ -1,0 +1,2 @@
+# Plant--Parastic-Nematodes-Classification-using-Self-Supervised-Learning-SSL-
+This Project proposes NemaSSL++, a unified framework for microscopic classification of plant-parasitic nematodes using supervised and self-supervised learning. ResNet50 achieved the best supervised accuracy of 88.14%. SSL methods including SimCLR, BYOL, and MoCo improved representation learning, with SimCLR reaching 80.88% accuracy.
